@@ -1,0 +1,8 @@
+{
+  "name": "github-rest.d.ts",
+  "version": "0.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/gsongsong/github-rest.d.ts",
+  "author": "Seokseong Jeon <sjeon87@gmail.com>",
+  "license": "MIT"
+}
